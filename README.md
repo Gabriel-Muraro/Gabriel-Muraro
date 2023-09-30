@@ -1,4 +1,4 @@
-- 👋 Hello world! I’m @Gabriel-Muraro,i am brasilian and i am 24 years old, at the moment i'm passing through a career transition and heading to full stack developer route..
+- 👋 Hello world! I’m @Gabriel-Muraro,i am brazilian and i am 24 years old, at the moment i'm passing through a career transition and heading to full stack developer route..
 - 🌱 I’m currently learning many programming languages, CSS, JAVASCRIPT, REACTJS, NODEJS, and other stuff like Databases, data structures etc.
 - 💞️ I’m looking forward to collaborate with projects and get help to grow in a new career to me. At time i'm searching for a job or a internship.
 - 📫 You can found me through my personal email: gabriel.muraro98@gmail.com and my linkedin: https://www.linkedin.com/in/gabriel-muraro-837b8a199/
